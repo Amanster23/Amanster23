@@ -2,7 +2,9 @@
 
 ## :rocket: About Me
 
-:mortar_board: I am a student with a specialization in front-end development and currently pursuing an Associates degree in Web Development at Harper College.   
+:mortar_board: I am a student with a specialization in front-end development and have obtained an Associates degree in Web Development at Harper College.   
+
+- 🔭 I’m currently working on completing my Bachelor degree in Graphic Design at Roosevelt University.
 <!--
 **Amanster23/Amanster23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
